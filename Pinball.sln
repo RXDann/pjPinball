@@ -1,18 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{7485E054-33AC-5D3A-346A-594485A92908}") = "Pinball", "Assembly-UnityScript.unityproj", "{03F117F1-1246-21E2-6C2A-964D267E4026}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03F117F1-1246-21E2-6C2A-964D267E4026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03F117F1-1246-21E2-6C2A-964D267E4026}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03F117F1-1246-21E2-6C2A-964D267E4026}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03F117F1-1246-21E2-6C2A-964D267E4026}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,5 +31,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
